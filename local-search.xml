@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>2021-06-06-Hello-World</title>
+    <link href="/2021-06-06-hello-world.html"/>
+    <url>/2021-06-06-hello-world.html</url>
+    
+    <content type="html"><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World!"></a>Hello World!</h1><h2 id="With-C-Language"><a href="#With-C-Language" class="headerlink" title="With C Language"></a>With C Language</h2><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs c"><span class="hljs-meta">#<span class="hljs-meta-keyword">include</span> <span class="hljs-meta-string">&lt;stdio.h&gt;</span></span><br><br><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">(<span class="hljs-keyword">void</span>)</span> </span>&#123;<br>    <span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;Hello World\n&quot;</span>);<br>    <span class="hljs-keyword">return</span> <span class="hljs-number">0</span>;<br>&#125;<br></code></pre></td></tr></table></figure><h2 id="With-Python"><a href="#With-Python" class="headerlink" title="With Python"></a>With Python</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;Hello World&quot;</span>)<br></code></pre></td></tr></table></figure><h2 id="With-Base64"><a href="#With-Base64" class="headerlink" title="With Base64"></a>With Base64</h2><figure class="highlight abnf"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs abnf"><span class="hljs-attribute">SGVsbG8gV29ybGQ</span>=<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
